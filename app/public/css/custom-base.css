@@ -1,0 +1,6 @@
+/* DATATBLES */
+table.dataTable td{padding:15px 8px!important}.fontawesome-icons .the-icon svg{font-size:24px}.page-item.active .page-link{color:#fff!important}.datatable-minimal div.dataTables_wrapper div.dataTables_paginate ul.pagination{justify-content:flex-end!important}.datatable-minimal div.dataTables_wrapper div.dataTables_filter{text-align:right}div.dataTables_wrapper div.dataTables_info{padding-top:.4em}
+/* BUTTONS FORMS */
+[data-indicator=on]>.indicator-label {display: none;}.indicator-progress{display: none;}[data-indicator=on]>.indicator-progress {display: inline-block;}.custom-section-elements .bi:before{vertical-align: top;}
+/*FLEX*/
+.flex-center{display: flex !important;align-items: center;justify-content: center;}.flex-between{display: flex !important;align-items: center;justify-content:space-between}
