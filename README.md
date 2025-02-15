@@ -15,3 +15,9 @@ Configuración del proyecto:
    ```
 2. **Crear DB**: Ejecute el script que se encuentra en el archivo `/database.sql`.
 3. **Actualizar conexion a DB**: Actualice los datos conexion a base de datos a su gusto desde el archivo `/config.php`.
+   
+        define('DB_HOST', 'xxxxx');
+        define('DB_USER', 'xxxx');
+        define('DB_PASS', 'xxxx');
+        define('DB_NAME', 'xxxx');
+   
